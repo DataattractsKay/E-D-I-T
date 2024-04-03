@@ -25,11 +25,14 @@ E-D-I-T utilizes the powerful Pillow Python library for advanced image processin
 ## Example Images
 
 ### Before Editing
-![Before Editing](images/puppy.jpg)
+![Puppy](puppy.jpeg)
 
-### After Editing (Using E-D-I-T)
-![After Editing](images/edited_puppy.jpg)
-![After Editing](images/new_background.jpg)
+### After Editing (Using E-D-I-T) 
+#### Black and white, contrast, Sharpnessm, Hue
+![After Editing](edited_puppy.jpg)
+
+### Changing Background (Using E-D-I-T) 
+![After Editing](new_background.jpg)
 
 ## Get Started
 
