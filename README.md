@@ -1,4 +1,5 @@
 # E-D-I-T: Every Detail Instantly Transformed
+![Banner](baner.png)
 
 E-D-I-T is a revolutionary Python tool designed to streamline the process of editing bulk images with just a click. Say goodbye to tedious manual editing tasks and hello to effortless image transformations!
 
